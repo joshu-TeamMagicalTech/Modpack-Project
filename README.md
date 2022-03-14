@@ -4,6 +4,5 @@
 
 導入mod(確定)バージョンはまだ確定していないものとする
 
-GregTech:CEu
-
-scannable
+[GregTech:CEu]
+[scannable]
