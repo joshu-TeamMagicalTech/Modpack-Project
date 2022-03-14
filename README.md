@@ -3,6 +3,6 @@
 コード書けないけど頑張る
 
 導入mod(確定)バージョンはまだ確定していないものとする
-
-[GregTech:CEu]
-[scannable]
+| Name |
+| [GregTech:CEu] |
+| [scannable] |
