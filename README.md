@@ -3,7 +3,7 @@
 コード書けないけど頑張る
 
 導入mod(確定)バージョンはまだ確定していないものとする
-| Name |
-| ---- |
-| GregTech:CEu |
-| scannable |
+| Name | Version |
+| ---- | ------- |
+| GregTech:CEu | 1.12.2-2.1.4-beta |
+| Scannable | MC1.12.2-1.6.3.26 |
