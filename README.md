@@ -39,7 +39,7 @@ Modpack_Project-0.0.1α
 | [Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution) | 2.3.28.354 |
 | [Eternal Singularity](https://www.curseforge.com/minecraft/mc-mods/eternal-singularity) | 1.0.7 |
 | [Evil Craft](https://www.curseforge.com/minecraft/mc-mods/evilcraft) | 0.10.78 |
-| [Extended Crafting](https://www.curseforge.com/minecraft/mc-mods/extended-crafting | 1.5.6 |
+| [Extended Crafting](https://www.curseforge.com/minecraft/mc-mods/extended-crafting) | 1.5.6 |
 | [Extra Academy](https://www.curseforge.com/minecraft/mc-mods/extraacademy) | 1.2.0-pre3 |
 | [Fast Furnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace) | 1.3.1 |
 | [Fast Workbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) | 1.7.3 |
