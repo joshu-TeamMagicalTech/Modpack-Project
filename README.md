@@ -2,7 +2,7 @@
 これから作るmodpackで色んな中間素材を作るための簡単なmodを頑張って作るやつです
 コード書けないけど頑張る
 
-導入mod(確定)バージョンはまだ確定していないものとする
+導入mod(仮)バージョンはまだ確定していないものとする
 Modpack_Project-0.0.1α
 | Name | Version |
 | ---- | ------- |
@@ -46,6 +46,50 @@ Modpack_Project-0.0.1α
 | [FoamFix](https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod) | 0.10.14 |
 | [Galacticraft Core](https://micdoodle8.com/mods/galacticraft/downloads) | 4.0.2.280 |
 | [Galacticraft Planets](https://micdoodle8.com/mods/galacticraft/downloads) | 4.0.2.280 |
+| [Galacticraft Tweaker](https://www.curseforge.com/minecraft/mc-mods/galacticrafttweaker) | 1.0.3 |
+| [Galaxy Space](https://www.curseforge.com/minecraft/mc-mods/galaxy-space-addon-for-galacticraft) | 2.0.18 |
+| [Gregicality Multiblocks](https://www.curseforge.com/minecraft/mc-mods/gregicality-multiblocks) | 1.1.1 |
+| [Gregification](https://github.com/GregTechCEu/Gregification) | 0.0.1 |
+| [GregTech Food Option](https://www.curseforge.com/minecraft/mc-mods/gregtech-food-option) | 1.4.1 |
 | [GregTech:CEu](https://www.curseforge.com/minecraft/mc-mods/gregtech-ce-unofficial) | 1.12.2-2.1.4-beta |
-| [Scannable]() | MC1.12.2-1.6.3.26 |
+| [Guide API](https://www.curseforge.com/minecraft/mc-mods/guide-api) | 2.1.8.63 |
+| [HTML Tech](https://www.curseforge.com/minecraft/mc-mods/htmltech) | 0.1.3-beta |
+| [Hwyla](https://www.curseforge.com/minecraft/mc-mods/hwyla) | 1.8.26-B41 |
+| [Inventory Tweaks](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks) | 1.63 |
+| [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei) | 4.16.1.302 |
+| [JEI Integration](https://www.curseforge.com/minecraft/mc-mods/jei-integration) | 1.6.0 |
+| [Just Enough IDs](https://www.curseforge.com/minecraft/mc-mods/jeid) |  |
+| [Lambda Lib 2](https://www.curseforge.com/minecraft/mc-mods/lambdalib) | 0.1.8 |
+| [Manaita Plus](https://www.curseforge.com/minecraft/mc-mods/manaita-plus) | 1.0.1 |
+| [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism) | 9.8.3.390 |
+| [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators) | 9.8.3.390 |
+| [Micdoodle Core](https://micdoodle8.com/mods/galacticraft/downloads) | 4.0.2.280 |
+| [Mixin Booter](https://www.curseforge.com/minecraft/mc-mods/mixin-booter) | 4.0 |
+| [More Avaritia](https://www.curseforge.com/minecraft/mc-mods/more-avaritia) | v4 |
+| [MoreTweaker](https://www.curseforge.com/minecraft/mc-mods/moretweaker) | 1.0.19 |
+| [MTLib](https://www.curseforge.com/minecraft/mc-mods/mtlib) | 3.0.7 |
+| [Multiblock Tweaker](https://www.curseforge.com/minecraft/mc-mods/multiblocktweaker) | stable-gtceu-1.6.0 |
+| [Not Enough Items](https://www.curseforge.com/minecraft/mc-mods/not-enough-items-1-8) | 2.4.3.245 |
+| [Nuclear Craft](https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-mod) | 2.18zz |
+| [Ore Tweaker](https://www.curseforge.com/minecraft/mc-mods/ore-tweaker) | 1.0.2-1.12.0 |
+| [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli) | 1.0-23.6 |
+| [PEEX](https://www.curseforge.com/minecraft/mc-mods/peex) | 3.0.11 |
+| [ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte) | PE1.4.1 |
+| [Project Intelligence](https://www.curseforge.com/minecraft/mc-mods/project-intelligence) | 1.0.9.28 |
+| [Quest Book(Better Questing)](https://www.curseforge.com/minecraft/mc-mods/better-questing-quest-book) | 3.1.1 |
+| [Redstone Flux](https://www.curseforge.com/minecraft/mc-mods/redstone-flux) | 2.1.1.1 |
+| [RFExpansion(Better Questing)](https://www.curseforge.com/minecraft/mc-mods/better-questing-rf-expansion) | 3.4.31 |
+| [Scannable](https://www.curseforge.com/minecraft/mc-mods/scannable) | MC1.12.2-1.6.3.26 |
+| [Standard Expansion(Better Questing)](https://www.curseforge.com/minecraft/mc-mods/better-questing-standard-expansion) | 3.4.173 |
+| [The Betweenlands](https://www.curseforge.com/minecraft/mc-mods/angry-pixel-the-betweenlands-mod) | 3.8.1 |
+| [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe) | 1.4.28 |
+| [TOP Addons](https://www.curseforge.com/minecraft/mc-mods/top-addons) | 1.13.0 |
+| [Vampires Need Umbrellas](https://www.curseforge.com/minecraft/mc-mods/vampires-need-umbrellas) | 1.5 |
+| [Vampirism](https://www.curseforge.com/minecraft/mc-mods/vampirism-become-a-vampire) | 1.6.2 |
+| [Vampirism Integrations](https://www.curseforge.com/minecraft/mc-mods/vampirism-integrations) | 1.3.0 |
+| [Vanilla Fix](https://www.curseforge.com/minecraft/mc-mods/vanillafix) | 1.0.10-150 |
+| [WanionLib](https://www.curseforge.com/minecraft/mc-mods/wanionlib) | 2.9 |
+| [Wawla](https://www.curseforge.com/minecraft/mc-mods/wawla) | 2.6.275 |
+| [Wrap Up](https://www.curseforge.com/minecraft/mc-mods/wrapup) | 1.1.3 |
+| ---- | ------- |
 | []() |  |
